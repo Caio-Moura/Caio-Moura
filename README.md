@@ -1,4 +1,4 @@
-<h2 align="center">## Olá, me chamo Caio! 🍀<br><br>Estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio. Sou apaixonado por tecnologia e focado em aprimorar minhas habilidades em **banco de dados**, **desenvolvimento web** e **segurança da informação**. Este perfil demonstra meu comprometimento com o aprendizado contínuo através de projetos e exercícios.</h2>
+<h2 align="center">Olá, me chamo Caio! 🍀<br><br>Estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio. Sou apaixonado por tecnologia e focado em aprimorar minhas habilidades em **banco de dados**, **desenvolvimento web** e **segurança da informação**. Este perfil demonstra meu comprometimento com o aprendizado contínuo através de projetos e exercícios.</h2>
 
 ###
 
