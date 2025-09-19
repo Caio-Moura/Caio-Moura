@@ -1,16 +1,16 @@
-<h2 align="left">Oi meu nome é Caio, seja bem vindos!! ao meu repositório</h2>
+<h2 align="center">## Olá, me chamo Caio! 🍀<br><br>Estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio. Sou apaixonado por tecnologia e focado em aprimorar minhas habilidades em **banco de dados**, **desenvolvimento web** e **segurança da informação**. Este perfil demonstra meu comprometimento com o aprendizado contínuo através de projetos e exercícios.</h2>
+
+###
+
+<div align="left">
+  <img height="120" src="https://images.squarespace-cdn.com/content/v1/5882a13517bffc09e39be804/1635391354869-I6JM6MTJF0CYCKHA6YAS/SnorlaxStreamBuddy.gif"  />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caio-Moura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Moura&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="150" src="https://images.squarespace-cdn.com/content/v1/5882a13517bffc09e39be804/1635391354869-I6JM6MTJF0CYCKHA6YAS/SnorlaxStreamBuddy.gif"  />
 </div>
 
 ###
@@ -30,7 +30,6 @@
 </div>
 
 ###
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
