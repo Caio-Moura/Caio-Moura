@@ -1,4 +1,22 @@
-<h2 align="center">Olá, me chamo Caio! 🍀<br><br>Estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio. Sou apaixonado por tecnologia e focado em aprimorar minhas habilidades em **banco de dados**, **desenvolvimento web** e **segurança da informação**. Este perfil demonstra meu comprometimento com o aprendizado contínuo através de projetos e exercícios.</h2>
+<h2 align="center">
+Olá, eu sou o Caio 🍀
+<br><br>
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em dados, Python e banco de dados.
+<br><br>
+Gosto de aprender na prática, desenvolvendo projetos que envolvem análise de dados e resolução de problemas do dia a dia.
+<br><br>
+Aqui você vai encontrar minha evolução através dos projetos que venho construindo ao longo dos estudos.
+</h2>
+
+<h3 align="left">🚀 Projetos em destaque</h3>
+
+<ul>
+  <li><b>Rota Vida – Roteador Inteligente para Transporte de Órgãos</b><br>
+  Aplicação em Python que calcula rotas otimizadas entre hospitais utilizando algoritmos de grafos e dados reais.</li>
+
+  <li><b>Dashboard de Vendas</b><br>
+  Projeto de análise de dados com construção de dashboard interativo para visualização de métricas e apoio à tomada de decisão.</li>
+</ul>
 
 ###
 
@@ -15,18 +33,18 @@
 
 ###
 
+<h3 align="left">🛠 Tecnologias</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
 </div>
 
 ###
@@ -41,13 +59,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/caiomoura181/" target="_blank">
+  <a href="(https://www.instagram.com/quaio__/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="caiomoura191@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-moura-904077273/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="caio_mcamargo@hotmail.com" target="_blank">
