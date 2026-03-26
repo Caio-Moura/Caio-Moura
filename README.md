@@ -1,12 +1,19 @@
-<h2 align="center">Olá, eu sou o Caio 🍀</h2>
-
-<p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em dados.
-</p>
-
-<p align="center">
-Tenho experiência com projetos práticos envolvendo análise de dados, dashboards e manipulação de dados reais.
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h2>Olá, eu sou o Caio 🍀</h2>
+      <p>
+        Estudante de Análise e Desenvolvimento de Sistemas, com foco em dados.
+      </p>
+      <p>
+        Tenho experiência com projetos práticos envolvendo análise de dados, dashboards e manipulação de dados.
+      </p>
+    </td>
+    <td>
+      <img src="https://images.squarespace-cdn.com/content/v1/5882a13517bffc09e39be804/1635391354869-I6JM6MTJF0CYCKHA6YAS/SnorlaxStreamBuddy.gif" width="120"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,7 +44,7 @@ Análise de dados com construção de dashboard interativo para visualização d
 ### 📊 Dados
 - Python
 - Excel
-- Pandas
+- SQL
 
 ### 💻 Desenvolvimento
 - HTML
@@ -48,7 +55,7 @@ Análise de dados com construção de dashboard interativo para visualização d
 
 ## 🎯 Objetivo
 
-Buscando minha primeira oportunidade na área de dados, com foco em análise e resolução de problemas reais.
+Busco minha primeira oportunidade na área de dados, onde eu possa aplicar na prática meus conhecimentos em análise de dados, Python e banco de dados, contribuindo com soluções baseadas em dados.
 
 ---
 
