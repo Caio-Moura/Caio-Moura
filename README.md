@@ -1,11 +1,11 @@
 <h2 align="center">Olá, eu sou o Caio 🍀</h2>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas • Foco em Análise de Dados, Python e Banco de Dados
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em dados.
 </p>
 
 <p align="center">
-Desenvolvo projetos práticos com dados reais, dashboards e otimização de rotas utilizando grafos.
+Tenho experiência com projetos práticos envolvendo análise de dados, dashboards e manipulação de dados reais.
 </p>
 
 ---
@@ -14,9 +14,7 @@ Desenvolvo projetos práticos com dados reais, dashboards e otimização de rota
 
 ### 🚑 Rota Vida – Roteador Inteligente para Transporte de Órgãos
 
-<p align="center">
-  <img src="./assets/rota-vida.png" width="700"/>
-</p>
+<img src="./assets/rota-vida.png" width="360"/>
 
 Sistema desenvolvido em Python que calcula rotas otimizadas entre hospitais utilizando algoritmos de grafos e integração com mapas reais.
 
@@ -26,9 +24,7 @@ Sistema desenvolvido em Python que calcula rotas otimizadas entre hospitais util
 
 ### 📊 Dashboard de Vendas
 
-<p align="center">
-  <img src="./assets/dashboard.png" width="700"/>
-</p>
+<img src="./assets/dashboard.png" width="360"/>
 
 Análise de dados com construção de dashboard interativo para visualização de métricas como faturamento, média e desempenho de produtos.
 
